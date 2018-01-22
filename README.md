@@ -6,5 +6,7 @@ https://erloest.wordpress.com/2018/01/16/arduino-als-soundzaehler-und-hilfmittel
 
 I gathered some code snippets at multiple tutorial and learning websites. It is so easy, feel free to use it as you like.
 
+
 Jugger-counter.ino: Just the noise peak counter.
+
 Jugger-counter_with_LED.ino: The counter and a LED flashing every 1.5 seconds (german style) to help the drummer.
